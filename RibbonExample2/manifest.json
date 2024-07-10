@@ -1,0 +1,10 @@
+{
+	"id": "example-48a1f4c1",
+	"name": "Ribbon Example #2 - Basic with Style",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Example of adding a CSS-styled icon to the ribbon.",
+	"author": "Aaron Ritchey",
+	"authorUrl": "https://obsidian.md",
+	"isDesktopOnly": false
+}

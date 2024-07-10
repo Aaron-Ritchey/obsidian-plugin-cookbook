@@ -1,0 +1,10 @@
+{
+	"id": "example-ba9a3030",
+	"name": "Ribbon Example #1 - Basic",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Example of adding an icon to the ribbon (left rail) with an action.",
+	"author": "Aaron Ritchey",
+	"authorUrl": "https://obsidian.md",
+	"isDesktopOnly": false
+}

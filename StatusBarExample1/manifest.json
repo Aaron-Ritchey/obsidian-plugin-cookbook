@@ -1,0 +1,10 @@
+{
+	"id": "example-a6438fae",
+	"name": "Status Bar Example #1 - Basic",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Example of adding text to the status bar (on the bottom). Nothing more.",
+	"author": "Aaron Ritchey",
+	"authorUrl": "https://obsidian.md",
+	"isDesktopOnly": false
+}

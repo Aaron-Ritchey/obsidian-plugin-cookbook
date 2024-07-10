@@ -1,0 +1,10 @@
+{
+	"id": "example-69d08421",
+	"name": "Status Bar Example #2 - Ribbon and Status Bar",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Example of using a ribbon element to change text in the status bar.",
+	"author": "Obsidian",
+	"authorUrl": "https://obsidian.md",
+	"isDesktopOnly": false
+}
